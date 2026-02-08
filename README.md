@@ -1,4 +1,4 @@
-# 🫶 CharityConnect – Donation Management System (MERN Stack)
+#  CharityConnect – Donation Management System (MERN Stack)
 
 ## 📌 Project Overview
 CharityConnect is a full-stack Donation Management System developed using the MERN stack. The application allows users to donate to various causes, manage donations, and track records efficiently. This project was developed as a semester project to simplify the donation process and provide a transparent platform for managing contributions.
@@ -51,7 +51,7 @@ CharityConnect/
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/your-username/charityconnect.git
+git clone https://github.com/FatimaAnsari655/charityconnect.git
 
 
 ### 2️⃣ Install dependencies
